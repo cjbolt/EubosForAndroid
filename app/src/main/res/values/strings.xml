@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Eubos for Android 2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="run">Run Mate in Two Test</string>
+    <string name="start">Start Test</string>
+    <string name="start_socket_comms">Start Socket on 50000</string>
+</resources>
